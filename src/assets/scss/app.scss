@@ -1,0 +1,93 @@
+@import 'variables';
+@import 'node_modules/bootstrap/scss/bootstrap.scss';
+@import 'node_modules/bootstrap-vue/src/index.scss';
+@import 'header';
+@import 'main';
+@import 'form';
+@import 'about';
+@import 'sidebar';
+
+body {
+    color: $light;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, $secondary, $dark 70%);
+    scrollbar-width: thin;
+    scrollbar-color: $light darken($color: $secondary, $amount: 20);
+    &::-webkit-scrollbar {
+        width: 8px;
+    }
+    &::-webkit-scrollbar-track {
+        background: darken($color: $secondary, $amount: 20);
+    }
+    &::-webkit-scrollbar-thumb {
+        background-color: $light;
+        border-radius: 20px; 
+    }
+}
+
+h4 {
+    text-transform: uppercase;
+    font-family: "Oswald", sans-serif;
+    letter-spacing: 4px;
+}
+
+a {
+    color: $light;
+    &:hover {
+        color: lighten($color: $light, $amount: 20);
+        text-decoration: none;
+    }
+}
+
+.carousel-caption {
+    top: 35%;
+    bottom: auto;
+    text-align: left;
+    max-width: 40%;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: rgba($color: $dark, $alpha: .5);
+    box-shadow: 0 1rem 1rem rgba($color: $dark, $alpha: .5);
+}
+
+.btn {
+    border-radius: 0;
+    margin-right: .5rem;
+    &:focus {
+        box-shadow: none;
+    }
+    &.btn-secondary {
+        background-color: transparent;
+        color: $light;
+        transition: padding .6s;
+        border-color: transparent;
+        &:hover {
+            color: $white;
+        }
+    }
+}
+
+.jumbotron {
+    // background: url('../galleries/images/fractal.jpg') no-repeat top;
+    background-color: transparent;
+    padding-top: 5rem;
+    padding-bottom: .5rem;
+    margin-bottom: 0;
+    .breadcrumb {
+        background-color: transparent;
+        margin-bottom: 0;
+    }
+}
+
+.card {
+    background-color: transparent;
+    border: 0;
+}
+
+.bg-wood {
+    background: url('../galleries/images/bg_bois_dark.jpg');
+    .card.border-ridge {
+        border: 4mm ridge $secondary;
+        background: $white;
+    }
+}
