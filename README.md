@@ -1,5 +1,14 @@
 # gallery2
 
+### parallax
+
+https://github.com/apertureless/vue-parallax
+
+### images
+
+* Lorem Picsum: https://picsum.photos/
+* Pixabay: https://pixabay.com/fr/
+
 ## Project setup
 ```
 npm install
