@@ -1,0 +1,31 @@
+.form-control {
+    background-color: transparent;
+    border-radius: 0;
+    border-color: darken($color: $secondary, $amount: 10);
+    color: $light;
+    &:focus {
+        background-color: darken($color: $secondary, $amount: 10);
+        box-shadow: none;
+        border-color: darken($color: $secondary, $amount: 10);
+        color: $white;
+    }
+}
+
+.custom-control-label::before {
+    background-color: transparent;
+    &:focus {
+        background-color: darken($color: $secondary, $amount: 10);
+    }
+}
+
+.custom-control-input:checked ~ .custom-control-label::before {
+    border-color: darken($color: $secondary, $amount: 10);
+    background-color: darken($color: $secondary, $amount: 10);
+    &:focus {
+        box-shadow: none;
+    }
+}
+
+.custom-checkbox .custom-control-label::before {
+    border-radius: 0;
+}
