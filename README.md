@@ -10,6 +10,7 @@ Ce modèle fait avec Bootstrap, en utilisant HTML5, SASS et Vue.js.
 * dart-sass
 * Bootstrap-4.0.0
 * Vue.js
+* Bootstrap-vue-2.21.2
 * Font Awesome-5.15.3
 
 ## Fonts:
