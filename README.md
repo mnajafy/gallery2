@@ -22,8 +22,8 @@ Voici un lien si vous souhaitez consulter la documentation Gallery2
 
 ### images
 
-* Lorem Picsum: https://picsum.photos/
-* Pixabay: https://pixabay.com/fr/
+* [Lorem Picsum](https://picsum.photos/)
+* [Pixabay](https://pixabay.com/fr/)
 
 ## Project setup
 ```
