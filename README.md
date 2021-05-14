@@ -1,4 +1,4 @@
-# gallery2
+# Gallery2
 
 Bienvenue à Gallery2, une galerie d'art raffinée et un thème muséal. Un large assortiment de plans de musées, de galeries d'art et d'expositions soigneusement conçus est à votre entière disposition, ainsi que des modèles pour les événements, la billetterie et plus encore! Organisez une exposition digne de votre galerie d'art ou de votre musée en toute simplicité.
 
