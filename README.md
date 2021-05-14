@@ -1,8 +1,10 @@
 # gallery2
 
-Gallery2 est un modèle HTML propre, moderne et entièrement réactif. il est conçu pour les photographes, Gallery art ou tout type de personne ou entreprise qui souhaite mettre en valeur son travail, ses services et son professionnalisme. Le caractère unique de Gallery2 Template est dû à ses designs incroyablement beaux et à sa solution de modèle de site Web facile à utiliser qui maximise la satisfaction des utilisateurs. Il est construit à l'aide du framework bootstrap 4.0.0, fonctionne totalement réactif, facile à personnaliser, codes bien commentés et optimisé pour le référencement
+Bienvenue à Gallery2, une galerie d'art raffinée et un thème muséal. Un large assortiment de plans de musées, de galeries d'art et d'expositions soigneusement conçus est à votre entière disposition, ainsi que des modèles pour les événements, la billetterie et plus encore! Organisez une exposition digne de votre galerie d'art ou de votre musée en toute simplicité.
 
-Ce modèle fait avec Bootstrap, Bootstrap-vue, en utilisant HTML5, SASS et Vue.js. 
+Ce modèle fait avec Bootstrap, Bootstrap-vue, en utilisant HTML5, SASS, CSS3, JS et Vue.
+
+Voici un lien si vous souhaitez consulter la documentation Gallery2
 
 ## Main Features:
 
