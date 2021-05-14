@@ -4,8 +4,6 @@ Bienvenue à Gallery2, une galerie d'art raffinée et un thème muséal. Un larg
 
 Ce modèle fait avec Bootstrap, Bootstrap-vue, en utilisant HTML5, SASS, CSS3, JS et Vue.
 
-Voici un lien si vous souhaitez consulter la documentation Gallery2
-
 ## Main Features:
 
 * HTML, CSS and JS
